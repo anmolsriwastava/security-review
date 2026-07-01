@@ -28,4 +28,4 @@ The premium batch access is currently **secure** against code-based exploits.
 
 The backend enforces server-side authorization correctly, and the payment flow has a human verification step that prevents automated bypass attempts.
 
-**Only valid attack surface left:** The `/video/subconcept/{id}` endpoint (already reported separately).
+
